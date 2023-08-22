@@ -42,3 +42,19 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+
+img{
+  width: 100%;
+  display: block;
+  cursor: pointer;
+};
+
+.gallery__link{
+  display: block;
+}
+
+.gallery__item {
+  display: block;
+ 
+  width: 100%;
+}
